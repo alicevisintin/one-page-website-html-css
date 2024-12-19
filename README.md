@@ -1,6 +1,2 @@
 # module-1 - guide-1
-
-This is my first project
-how are you
-hello
-how are you again ?
+This is a one page website for the first guide of module 1.
